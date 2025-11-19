@@ -1,2 +1,1 @@
-# nyt_application
-Additional Application materials
+These are additional application files. 
